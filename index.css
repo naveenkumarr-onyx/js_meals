@@ -1,0 +1,47 @@
+.title{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#nav--meal{
+    background-color: black;
+    justify-content: center;
+}
+#nav--element{
+    text-align: center;
+    padding: 10px;
+}
+li{
+    color: #ffff;
+    list-style-type: none;
+    display: inline;
+    margin-left:30px;
+}
+img{
+    border-radius: 10px;
+}
+img:hover{
+    transform: scale(1.1);
+    transition: 1s all;
+}
+.col-md-3{
+    margin: 30px !important;
+}
+p{
+    font-size:22px!important ;
+    font-weight: bold ;
+}
+.order{
+    margin-top: 10px;
+    font-size: 15px !important;
+}
+h1{
+    margin: 0px;
+}
+.text-center{
+    font-family: 'Gill Sans';
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 900;
+    background-color: skyblue;
+    border-radius: 5px;
+}
